@@ -1,1 +1,3 @@
-![ex_screenshot](./img/main.png)
+<center>
+    <div id = "su"><br>SUYEON's<br>Git Hub</div>
+  </center>
