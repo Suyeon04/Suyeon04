@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
-![Suyeon04's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyeon04&show_icons=true&theme=dracula)
+
+![Suyeon04's github stats](https://github-readme-stats.vercel.app/api?username=Suyeon04&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyeon04&layout=compact&theme=tokyonight)
 
